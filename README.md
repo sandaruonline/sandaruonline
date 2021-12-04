@@ -1,5 +1,5 @@
 ### __👋 Hey, I'm Sandaru.__ 
-17, pursuing full-stack development.
+18, pursuing full-stack development.
 
 ---
 
