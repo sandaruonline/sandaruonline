@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Sandaru.</h2>
 
 <p align="center">
-21, pursuing full-stack development.
+22, pursuing full-stack development.
 </p>
 
 <p align="center">
